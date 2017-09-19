@@ -1,4 +1,5 @@
-// Name - Sahib Arora, userName - sarora42, userId - 130939168
+// This files keeps track of all the constants used our Project
+
 #ifndef SICT_GENERAL_H__
 #define SICT_GENERAL_H__
 
