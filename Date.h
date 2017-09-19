@@ -1,3 +1,4 @@
+// Date class handles the dates of the products and check if the user enters a valid date...
 
 #ifndef SICT_DATE_H__
 #define SICT_DATE_H__
