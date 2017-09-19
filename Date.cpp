@@ -1,3 +1,4 @@
+// Date class handles the dates of the products and check if the user enters a valid date...
 
 #include<iostream>
 #include"Date.h"
